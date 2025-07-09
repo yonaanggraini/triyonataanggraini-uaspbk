@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Buket Mawar Merah Romantis",
+      "shortDescription": "Buket eksklusif untuk momen spesial penuh cinta",
+      "longDescription": "Buket mawar merah premium dengan diameter 40cm, terdiri dari 24 tangkai mawar merah segar impor langsung dari Ekuador. Dikemas dengan wrapping paper elegan dan pita satin. Cocok untuk anniversary, lamaran, atau sekedar ungkapan sayang kepada orang tersayang.",
+      "price": 450000,
+      "stock": 15,
+      "category": "Buket Bunga",
+      "image": "https://via.placeholder.com/800x600?text=Buket+Mawar+Merah",
+      "thumbnails": [
+        "https://via.placeholder.com/200x200?text=Mawar+1",
+        "https://via.placeholder.com/200x200?text=Mawar+2",
+        "https://via.placeholder.com/200x200?text=Mawar+3"
+      ],
+      "features": [
+        "Mawar segar dengan kualitas premium",
+        "Tahan segar hingga 7 hari dengan perawatan tepat",
+        "Dikemas dengan wrapping paper premium",
+        "Termasuk kartu ucapan gratis",
+        "Bisa request tambahan chocolate atau boneka"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Buket Tulip Pastel",
+      "shortDescription": "Buket tulip warna pastel yang elegan",
+      "longDescription": "Buket tulip dengan kombinasi warna pastel yang lembut, terdiri dari 20 tangkai tulip segar. Cocok untuk hadiah ulang tahun atau anniversary. Dikemas dengan kertas kraft dan pita linen.",
+      "price": 375000,
+      "stock": 10,
+      "category": "Buket Bunga",
+      "image": "https://via.placeholder.com/800x600?text=Buket+Tulip",
+      "thumbnails": [
+        "https://via.placeholder.com/200x200?text=Tulip+1",
+        "https://via.placeholder.com/200x200?text=Tulip+2"
+      ],
+      "features": [
+        "Tulip segar impor dari Belanda",
+        "Warna pastel yang lembut",
+        "Tahan segar 5-7 hari",
+        "Packaging minimalis elegan"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rangkaian Bunga Lily",
+      "shortDescription": "Rangkaian lily putih yang anggun",
+      "longDescription": "Rangkaian bunga lily putih dalam vas kristal, memberikan kesan elegan dan mewah. Cocok untuk acara formal atau sebagai dekorasi meja. Lily segar dengan aroma harum yang tidak terlalu kuat.",
+      "price": 525000,
+      "stock": 8,
+      "category": "Bunga Vas",
+      "image": "https://via.placeholder.com/800x600?text=Bunga+Lily",
+      "thumbnails": [
+        "https://via.placeholder.com/200x200?text=Lily+1",
+        "https://via.placeholder.com/200x200?text=Lily+2",
+        "https://via.placeholder.com/200x200?text=Lily+3"
+      ],
+      "features": [
+        "Lily putih segar berkualitas tinggi",
+        "Vas kristal premium termasuk dalam paket",
+        "Aroma harum yang lembut",
+        "Tahan segar hingga 10 hari",
+        "Dilengkapi pupuk khusus"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Box Bunga Lavender",
+      "shortDescription": "Box bunga lavender dengan aroma menenangkan",
+      "longDescription": "Box bunga lavender segar dengan kemasan kayu alami. Aromanya yang khas memberikan efek menenangkan. Cocok untuk hadiah atau dekorasi ruangan.",
+      "price": 285000,
+      "stock": 12,
+      "category": "Box Bunga",
+      "image": "https://via.placeholder.com/800x600?text=Box+Lavender",
+      "thumbnails": [
+        "https://via.placeholder.com/200x200?text=Lavender+1",
+        "https://via.placeholder.com/200x200?text=Lavender+2"
+      ],
+      "features": [
+        "Lavender segar dari lokal",
+        "Box kayu alami reusable",
+        "Aroma terapi alami",
+        "Tahan segar 5-7 hari"
+      ]
+    }
+  ]
+}

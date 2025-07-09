@@ -1,0 +1,18 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bouquet Bunga Matahari",
+      "price": 150000,
+      "image": "/images/sunflower.jpg",
+      "category": "birthday",
+      "description": "Rangkaian bunga matahari segar dengan wrapping kraft paper"
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "Ulang Tahun" },
+    { "id": 2, "name": "Pernikahan" }
+  ],
+  "cart": []
+}

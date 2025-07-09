@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    {
+      "id": 2,
+      "name": "Buket Tulip Pastel",
+      "price": 375000,
+      "image": "https://via.placeholder.com/400x300?text=Buket+Tulip",
+      "category": "Buket Bunga"
+    },
+    {
+      "id": 3,
+      "name": "Rangkaian Bunga Lily",
+      "price": 525000,
+      "image": "https://via.placeholder.com/400x300?text=Bunga+Lily",
+      "category": "Bunga Vas"
+    },
+    {
+      "id": 4,
+      "name": "Box Bunga Lavender",
+      "price": 285000,
+      "image": "https://via.placeholder.com/400x300?text=Box+Lavender",
+      "category": "Box Bunga"
+    }
+  ]
+}
